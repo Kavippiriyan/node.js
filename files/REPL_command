@@ -1,0 +1,13 @@
+x=0
+while(x<=10)
+{
+console.log(x)
+x++
+}
+var x =10
+var y =20
+x+y
+var z = _
+z
+x=10
+y=_
